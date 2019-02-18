@@ -1,0 +1,15 @@
+c:\users\arturb\source\repos\CreateSerializableClass\CreateSerializableClass\bin\Debug\CreateSerializableClass.exe.config
+c:\users\arturb\source\repos\CreateSerializableClass\CreateSerializableClass\bin\Debug\CreateSerializableClass.exe
+c:\users\arturb\source\repos\CreateSerializableClass\CreateSerializableClass\bin\Debug\CreateSerializableClass.pdb
+c:\users\arturb\source\repos\CreateSerializableClass\CreateSerializableClass\obj\Debug\CreateSerializableClass.csprojAssemblyReference.cache
+c:\users\arturb\source\repos\CreateSerializableClass\CreateSerializableClass\obj\Debug\CreateSerializableClass.Form1.resources
+c:\users\arturb\source\repos\CreateSerializableClass\CreateSerializableClass\obj\Debug\CreateSerializableClass.Properties.Resources.resources
+c:\users\arturb\source\repos\CreateSerializableClass\CreateSerializableClass\obj\Debug\CreateSerializableClass.csproj.GenerateResource.cache
+c:\users\arturb\source\repos\CreateSerializableClass\CreateSerializableClass\obj\Debug\CreateSerializableClass.csproj.CoreCompileInputs.cache
+c:\users\arturb\source\repos\CreateSerializableClass\CreateSerializableClass\obj\Debug\CreateSerializableClass.exe
+c:\users\arturb\source\repos\CreateSerializableClass\CreateSerializableClass\obj\Debug\CreateSerializableClass.pdb
+C:\Users\arturb\source\repos\CreateSerializableClass\CreateSerializableClass\bin\Debug\CreateSerializableClass.exe.manifest
+C:\Users\arturb\source\repos\CreateSerializableClass\CreateSerializableClass\bin\Debug\CreateSerializableClass.application
+C:\Users\arturb\source\repos\CreateSerializableClass\CreateSerializableClass\obj\Debug\CreateSerializableClass.TrustInfo.xml
+C:\Users\arturb\source\repos\CreateSerializableClass\CreateSerializableClass\obj\Debug\CreateSerializableClass.exe.manifest
+C:\Users\arturb\source\repos\CreateSerializableClass\CreateSerializableClass\obj\Debug\CreateSerializableClass.application
